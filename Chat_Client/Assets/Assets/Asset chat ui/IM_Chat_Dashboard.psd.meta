@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 95c5c6c8a98a05446a542a15a1388fc2
+timeCreated: 1505275204
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+  spritePackingTag: 
+  userData: '{"fileNaming":"LayerNameOnly","groupMode":"ParentOnly","PackingTag":null,"TargetDirectory":null,"AutoImport":false,"DefaultAlignment":"Center","DefaultPivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","DocAlignment":"Center","DocPivot":{"x":0.5,"y":0.5},"DocRoot":{"name":"DOCUMENT_ROOT","path":null,"indexId":[-1],"import":false,"useDefaults":false,"Alignment":"Center","Pivot":{"x":0.0,"y":0.0},"ScaleFactor":"Full","Childs":[{"name":"Background","path":"Background","indexId":[0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"IM
+    Navigation","path":"IM Navigation","indexId":[1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Plate","path":"IM
+    Navigation/Plate","indexId":[1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Back
+    Plate","path":"IM Navigation/Plate/Back Plate","indexId":[1,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"shadow
+    c","path":"IM Navigation/Plate/shadow c","indexId":[1,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Selected
+    State","path":"IM Navigation/Plate/Selected State","indexId":[1,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Icons","path":"IM
+    Navigation/Icons","indexId":[1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"W","path":"IM
+    Navigation/Icons/W","indexId":[1,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"S","path":"IM
+    Navigation/Icons/S","indexId":[1,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"V","path":"IM
+    Navigation/Icons/V","indexId":[1,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"FB","path":"IM
+    Navigation/Icons/FB","indexId":[1,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"N","path":"IM
+    Navigation/Icons/N","indexId":[1,1,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Hamburger
+    Menu Icon","path":"IM Navigation/Hamburger Menu Icon","indexId":[1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Inbox
+    Menu","path":"Inbox Menu","indexId":[2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"back
+    plate","path":"Inbox Menu/back plate","indexId":[2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"shadow","path":"Inbox
+    Menu/shadow","indexId":[2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Navigation","path":"Inbox
+    Menu/Navigation","indexId":[2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"selected
+    state","path":"Inbox Menu/Navigation/selected state","indexId":[2,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"All
+    Messages Unread Important Drafts  ","path":"Inbox Menu/Navigation/All Messages
+    Unread Important Drafts  ","indexId":[2,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"21
+    89 6 27","path":"Inbox Menu/Navigation/21 89 6 27","indexId":[2,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Teams
+    Groups Channels Locations Media  ","path":"Inbox Menu/Navigation/Teams Groups
+    Channels Locations Media  ","indexId":[2,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Help
+    Settings  ","path":"Inbox Menu/Navigation/Help Settings  ","indexId":[2,2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"4
+    3 18  120 ","path":"Inbox Menu/Navigation/4 3 18  120 ","indexId":[2,2,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_","path":"Inbox
+    Menu/Navigation/_","indexId":[2,2,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_","path":"Inbox
+    Menu/Navigation/_","indexId":[2,2,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Add
+    Contact btn","path":"Inbox Menu/Add Contact btn","indexId":[2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    4","path":"Inbox Menu/Add Contact btn/Ellipse 4","indexId":[2,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"add","path":"Inbox
+    Menu/Add Contact btn/add","indexId":[2,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Inbox","path":"Inbox
+    Menu/Inbox","indexId":[2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Friends
+    List","path":"Friends List","indexId":[3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"backing
+    plate","path":"Friends List/backing plate","indexId":[3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"shadow
+    c","path":"Friends List/shadow c","indexId":[3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Hover","path":"Friends
+    List/Hover","indexId":[3,2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Selected
+    ","path":"Friends List/Selected ","indexId":[3,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Friends
+    list","path":"Friends List/Friends list","indexId":[3,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"6","path":"Friends
+    List/Friends list/6","indexId":[3,4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"deets","path":"Friends
+    List/Friends list/6/deets","indexId":[3,4,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Shape
+    1 copy 8","path":"Friends List/Friends list/6/deets/Shape 1 copy 8","indexId":[3,4,0,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Kayne
+    West  ","path":"Friends List/Friends list/6/deets/Kayne West  ","indexId":[3,4,0,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"So
+    tell the voice inside your...","path":"Friends List/Friends list/6/deets/So tell
+    the voice inside your...","indexId":[3,4,0,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"49
+    min ","path":"Friends List/Friends list/6/deets/49 min ","indexId":[3,4,0,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Rounded
+    Rectangle 3 copy 8","path":"Friends List/Friends list/6/deets/Rounded Rectangle
+    3 copy 8","indexId":[3,4,0,0,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/6/PP","indexId":[3,4,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 11","path":"Friends List/Friends list/6/PP/Ellipse 1 copy 11","indexId":[3,4,0,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    13","path":"Friends List/Friends list/6/PP/Layer 13","indexId":[3,4,0,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"5","path":"Friends
+    List/Friends list/5","indexId":[3,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"online","path":"Friends
+    List/Friends list/5/online","indexId":[3,4,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_","path":"Friends
+    List/Friends list/5/_","indexId":[3,4,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"deets","path":"Friends
+    List/Friends list/5/deets","indexId":[3,4,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Mace
+    Windu  ","path":"Friends List/Friends list/5/deets/Mace Windu  ","indexId":[3,4,1,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Protect
+    the senator at all costs. ","path":"Friends List/Friends list/5/deets/Protect
+    the senator at all costs. ","indexId":[3,4,1,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"38
+    min ","path":"Friends List/Friends list/5/deets/38 min ","indexId":[3,4,1,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Rounded
+    Rectangle 3 copy 7","path":"Friends List/Friends list/5/deets/Rounded Rectangle
+    3 copy 7","indexId":[3,4,1,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/5/PP","indexId":[3,4,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 10","path":"Friends List/Friends list/5/PP/Ellipse 1 copy 10","indexId":[3,4,1,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    19","path":"Friends List/Friends list/5/PP/Layer 19","indexId":[3,4,1,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"4","path":"Friends
+    List/Friends list/4","indexId":[3,4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"online","path":"Friends
+    List/Friends list/4/online","indexId":[3,4,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_","path":"Friends
+    List/Friends list/4/_","indexId":[3,4,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"deets","path":"Friends
+    List/Friends list/4/deets","indexId":[3,4,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Shaun
+    Gardner  ","path":"Friends List/Friends list/4/deets/Shaun Gardner  ","indexId":[3,4,2,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Ok
+    that sounds perfect","path":"Friends List/Friends list/4/deets/Ok that sounds
+    perfect","indexId":[3,4,2,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Thumbs
+    Up","path":"Friends List/Friends list/4/deets/Thumbs Up","indexId":[3,4,2,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"30
+    min ","path":"Friends List/Friends list/4/deets/30 min ","indexId":[3,4,2,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"more","path":"Friends
+    List/Friends list/4/deets/more","indexId":[3,4,2,2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/4/PP","indexId":[3,4,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 9","path":"Friends List/Friends list/4/PP/Ellipse 1 copy 9","indexId":[3,4,2,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    11","path":"Friends List/Friends list/4/PP/Layer 11","indexId":[3,4,2,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"3","path":"Friends
+    List/Friends list/3","indexId":[3,4,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"_","path":"Friends
+    List/Friends list/3/_","indexId":[3,4,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Deets","path":"Friends
+    List/Friends list/3/Deets","indexId":[3,4,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Kirsten
+    Mckellar  ","path":"Friends List/Friends list/3/Deets/Kirsten Mckellar  ","indexId":[3,4,3,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Where
+    is the nearest place to...","path":"Friends List/Friends list/3/Deets/Where is
+    the nearest place to...","indexId":[3,4,3,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"2
+    min ","path":"Friends List/Friends list/3/Deets/2 min ","indexId":[3,4,3,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"more","path":"Friends
+    List/Friends list/3/Deets/more","indexId":[3,4,3,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/3/PP","indexId":[3,4,3,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 8","path":"Friends List/Friends list/3/PP/Ellipse 1 copy 8","indexId":[3,4,3,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    30","path":"Friends List/Friends list/3/PP/Layer 30","indexId":[3,4,3,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"2","path":"Friends
+    List/Friends list/2","indexId":[3,4,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"deets","path":"Friends
+    List/Friends list/2/deets","indexId":[3,4,4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Claire
+    Sharwood  ","path":"Friends List/Friends list/2/deets/Claire Sharwood  ","indexId":[3,4,4,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"My
+    selfie game is lacking can...","path":"Friends List/Friends list/2/deets/My selfie
+    game is lacking can...","indexId":[3,4,4,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"10
+    min ","path":"Friends List/Friends list/2/deets/10 min ","indexId":[3,4,4,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"more","path":"Friends
+    List/Friends list/2/deets/more","indexId":[3,4,4,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/2/PP","indexId":[3,4,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 7","path":"Friends List/Friends list/2/PP/Ellipse 1 copy 7","indexId":[3,4,4,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    15","path":"Friends List/Friends list/2/PP/Layer 15","indexId":[3,4,4,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"_","path":"Friends
+    List/Friends list/2/_","indexId":[3,4,4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"1","path":"Friends
+    List/Friends list/1","indexId":[3,4,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"_","path":"Friends
+    List/Friends list/1/_","indexId":[3,4,5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"deets","path":"Friends
+    List/Friends list/1/deets","indexId":[3,4,5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Matt
+    Thompson  ","path":"Friends List/Friends list/1/deets/Matt Thompson  ","indexId":[3,4,5,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Thanks
+    again you have been...","path":"Friends List/Friends list/1/deets/Thanks again
+    you have been...","indexId":[3,4,5,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"5
+    min ","path":"Friends List/Friends list/1/deets/5 min ","indexId":[3,4,5,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"more","path":"Friends
+    List/Friends list/1/deets/more","indexId":[3,4,5,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"PP","path":"Friends
+    List/Friends list/1/PP","indexId":[3,4,5,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1","path":"Friends List/Friends list/1/PP/Ellipse 1","indexId":[3,4,5,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    8","path":"Friends List/Friends list/1/PP/Layer 8","indexId":[3,4,5,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"online","path":"Friends
+    List/Friends list/1/online","indexId":[3,4,5,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Search
+    BAR","path":"Friends List/Search BAR","indexId":[3,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"_","path":"Friends
+    List/Search BAR/_","indexId":[3,5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"search
+    field","path":"Friends List/Search BAR/search field","indexId":[3,5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Search
+    ","path":"Friends List/Search BAR/Search ","indexId":[3,5,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Search","path":"Friends
+    List/Search BAR/Search","indexId":[3,5,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Chat","path":"Chat","indexId":[4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"chat
+    back plate","path":"Chat/chat back plate","indexId":[4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Message
+    Entry","path":"Chat/Message Entry","indexId":[4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Rectangle
+    5","path":"Chat/Message Entry/Rectangle 5","indexId":[4,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    24","path":"Chat/Message Entry/Layer 24","indexId":[4,1,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Ellipse
+    1 copy 12","path":"Chat/Message Entry/Ellipse 1 copy 12","indexId":[4,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"attach","path":"Chat/Message
+    Entry/attach","indexId":[4,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Type
+    your message...","path":"Chat/Message Entry/Type your message...","indexId":[4,1,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_  copy
+    3","path":"Chat/Message Entry/_  copy 3","indexId":[4,1,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"emojis","path":"Chat/Message
+    Entry/emojis","indexId":[4,1,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Send","path":"Chat/Message
+    Entry/Send","indexId":[4,1,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"6","path":"Chat/6","indexId":[4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 13","path":"Chat/6/Ellipse 1 copy 13","indexId":[4,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    25","path":"Chat/6/Layer 25","indexId":[4,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:45
+    ","path":"Chat/6/12:45 ","indexId":[4,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 3","path":"Chat/6/Shape 3 copy 3","indexId":[4,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Rounded
+    Rectangle 5","path":"Chat/6/Rounded Rectangle 5","indexId":[4,2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    23","path":"Chat/6/Layer 23","indexId":[4,2,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Rounded
+    Rectangle 6","path":"Chat/6/Rounded Rectangle 6","indexId":[4,2,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"$12.99  -  BUY
+    NOW","path":"Chat/6/$12.99  -  BUY NOW","indexId":[4,2,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    4","path":"Chat/6/Shape 4","indexId":[4,2,8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    4 copy","path":"Chat/6/Shape 4 copy","indexId":[4,2,9],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    4 copy 2","path":"Chat/6/Shape 4 copy 2","indexId":[4,2,10],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    4 copy 3","path":"Chat/6/Shape 4 copy 3","indexId":[4,2,11],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    4 copy 4","path":"Chat/6/Shape 4 copy 4","indexId":[4,2,12],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"95
+    Ratings","path":"Chat/6/95 Ratings","indexId":[4,2,13],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Ready
+    To Die  The Notorious B.I.G. ","path":"Chat/6/Ready To Die  The Notorious B.I.G.
+    ","indexId":[4,2,14],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"5","path":"Chat/5","indexId":[4,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 5","path":"Chat/5/Ellipse 1 copy 5","indexId":[4,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    25 copy","path":"Chat/5/Layer 25 copy","indexId":[4,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:43
+    ","path":"Chat/5/12:43 ","indexId":[4,3,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 2","path":"Chat/5/Shape 3 copy 2","indexId":[4,3,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Haha
+    awesome,  I think I know the album your looking. for. ","path":"Chat/5/Haha awesome,  I
+    think I know the album your looking. for. ","indexId":[4,3,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"4","path":"Chat/4","indexId":[4,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 4","path":"Chat/4/Ellipse 1 copy 4","indexId":[4,4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    29","path":"Chat/4/Layer 29","indexId":[4,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:40
+    ","path":"Chat/4/12:40 ","indexId":[4,4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 5","path":"Chat/4/Shape 3 copy 5","indexId":[4,4,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 5","path":"Chat/4/Shape 3 copy 5","indexId":[4,4,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Yes
+    I did! Every Saturday! Rap Attack, Mr. Magic, Marley Marl. ","path":"Chat/4/Yes
+    I did! Every Saturday! Rap Attack, Mr. Magic, Marley Marl. ","indexId":[4,4,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"3","path":"Chat/3","indexId":[4,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 2","path":"Chat/3/Ellipse 1 copy 2","indexId":[4,5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    25 copy 2","path":"Chat/3/Layer 25 copy 2","indexId":[4,5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:39
+    ","path":"Chat/3/12:39 ","indexId":[4,5,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy","path":"Chat/3/Shape 3 copy","indexId":[4,5,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Did
+    you ever Hang'' pictures on your wall? ","path":"Chat/3/Did you ever Hang'' pictures
+    on your wall? ","indexId":[4,5,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"2","path":"Chat/2","indexId":[4,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 3","path":"Chat/2/Ellipse 1 copy 3","indexId":[4,6,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    28","path":"Chat/2/Layer 28","indexId":[4,6,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:38
+    ","path":"Chat/2/12:38 ","indexId":[4,6,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 4","path":"Chat/2/Shape 3 copy 4","indexId":[4,6,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 4","path":"Chat/2/Shape 3 copy 4","indexId":[4,6,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"It
+    was all a dream, I used to read Word Up magazine Salt''n''Pepa","path":"Chat/2/It
+    was all a dream, I used to read Word Up magazine Salt''n''Pepa","indexId":[4,6,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"1","path":"Chat/1","indexId":[4,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Ellipse
+    1 copy 6","path":"Chat/1/Ellipse 1 copy 6","indexId":[4,7,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    26","path":"Chat/1/Layer 26","indexId":[4,7,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"12:47
+    ","path":"Chat/1/12:47 ","indexId":[4,7,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 7","path":"Chat/1/Shape 3 copy 7","indexId":[4,7,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    3 copy 7","path":"Chat/1/Shape 3 copy 7","indexId":[4,7,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"It
+    goes a little something like this.","path":"Chat/1/It goes a little something
+    like this.","indexId":[4,7,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Top
+    Bar","path":"Chat/Top Bar","indexId":[4,8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Shape
+    4 copy 5","path":"Chat/Top Bar/Shape 4 copy 5","indexId":[4,8,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_
+    ","path":"Chat/Top Bar/_ ","indexId":[4,8,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Kirsten
+    Mckellar is typing... ","path":"Chat/Top Bar/Kirsten Mckellar is typing... ","indexId":[4,8,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"fade","path":"Chat/Top
+    Bar/fade","indexId":[4,8,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"video
+    call","path":"Chat/Top Bar/video call","indexId":[4,8,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Call","path":"Chat/Top
+    Bar/Call","indexId":[4,8,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"|","path":"Chat/Top
+    Bar/|","indexId":[4,8,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"|","path":"Chat/Top
+    Bar/|","indexId":[4,8,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"|","path":"Chat/Top
+    Bar/|","indexId":[4,8,8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Friend
+    Profile Bar","path":"Friend Profile Bar","indexId":[5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"user
+    Profile","path":"Friend Profile Bar/user Profile","indexId":[5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"_  copy
+    2","path":"Friend Profile Bar/user Profile/_  copy 2","indexId":[5,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Rounded
+    Rectangle 3 copy 9","path":"Friend Profile Bar/user Profile/Rounded Rectangle
+    3 copy 9","indexId":[5,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Ellipse
+    5","path":"Friend Profile Bar/user Profile/Ellipse 5","indexId":[5,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    27","path":"Friend Profile Bar/user Profile/Layer 27","indexId":[5,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Ellipse
+    5 copy","path":"Friend Profile Bar/user Profile/Ellipse 5 copy","indexId":[5,0,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Kirsten
+    Mckellar  ","path":"Friend Profile Bar/user Profile/Kirsten Mckellar  ","indexId":[5,0,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Cape
+    Town, RSA","path":"Friend Profile Bar/user Profile/Cape Town, RSA","indexId":[5,0,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Vector
+    Smart Object copy","path":"Friend Profile Bar/user Profile/Vector Smart Object
+    copy","indexId":[5,0,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Details","path":"Friend
+    Profile Bar/Details","indexId":[5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Nickname:
+    Tel: Date Of Birth: Gender: Language:       ","path":"Friend Profile Bar/Details/Nickname:
+    Tel: Date Of Birth: Gender: Language:       ","indexId":[5,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Killa
+    Kella 072 143 9920 July 12, 1988 Female English       ","path":"Friend Profile
+    Bar/Details/Killa Kella 072 143 9920 July 12, 1988 Female English       ","indexId":[5,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_  ","path":"Friend
+    Profile Bar/Details/_  ","indexId":[5,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_  ","path":"Friend
+    Profile Bar/Details/_  ","indexId":[5,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_  ","path":"Friend
+    Profile Bar/Details/_  ","indexId":[5,1,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"_
+    ","path":"Friend Profile Bar/Details/_ ","indexId":[5,1,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Account
+    ","path":"Friend Profile Bar/Account ","indexId":[5,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Notifications","path":"Friend
+    Profile Bar/Account /Notifications","indexId":[5,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Matt
+    Thompson   ","path":"Friend Profile Bar/Account /Matt Thompson   ","indexId":[5,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"drop
+    down","path":"Friend Profile Bar/Account /drop down","indexId":[5,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"online
+    copy","path":"Friend Profile Bar/Account /online copy","indexId":[5,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"_  copy","path":"Friend
+    Profile Bar/_  copy","indexId":[5,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Dribbble
+    Link","path":"Dribbble Link","indexId":[6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Rounded
+    Rectangle 7","path":"Dribbble Link/Rounded Rectangle 7","indexId":[6,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Dribbble.com/Matt_Thompson","path":"Dribbble
+    Link/Dribbble.com/Matt_Thompson","indexId":[6,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"dribbble-ball-dnld-132f5d763011b493e86728489c110825","path":"Dribbble
+    Link/dribbble-ball-dnld-132f5d763011b493e86728489c110825","indexId":[6,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]}}'
+  assetBundleName: 
+  assetBundleVariant: 

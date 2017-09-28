@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 909c03eeec4a8ed40bb410c3d86aedaf
+timeCreated: 1505272151
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien Sign
+  fontNames:
+  - Alien Sign
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0ca9b397771d22a4d93fee476baaae6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
